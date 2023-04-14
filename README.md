@@ -1,5 +1,6 @@
 # Human-Image-Classification
 BULKDOWNLOAD OF IMAGES:
+
 For bulk downloading of images, you should follow these steps,
 1.	Download the urls_downloader file.
 2.	Copy the java code from the file.
@@ -10,6 +11,7 @@ For bulk downloading of images, you should follow these steps,
 7.	Then press enter, it will automatically download the URLs of the scrolled images by the name urls.txt.
 
 DOWNLOADING IMAGES WITH PYTHON:
+
 For downloading the images whose urls are in the urls.txt using python, follow these steps,
 1.	First create a folder to store downloading images at where the image_downnloader file is present.
 2.	Download the image_downloader file.
